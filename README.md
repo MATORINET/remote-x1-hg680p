@@ -8,4 +8,3 @@ Config Remote X1 FirstMedia for Fiberhome HG680P
  2. Replace the Factory code ( 0x+(factorycode)+0001 ) with the actual codes from your remote
  3. Save this file as 'remote.conf' in /system/etc/ or /vendor/etc/
  4. Reboot the device
- 5. 
